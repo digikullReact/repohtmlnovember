@@ -1,0 +1,47 @@
+<html>
+</html>
+
+<body>
+</body>
+
+<div>
+</div>
+
+<span>
+</span>
+
+<p>
+</p>
+
+<section>
+</section>
+
+<h1> </h1>  to <h6></h6>
+
+<ul>
+<li>
+</li>
+</ul>
+
+
+<ol>
+<li>
+</li>
+</ol>
+
+<input type="text"/>
+<input type="number"/>
+<input type="password"/>
+<input type="file"/>
+<input type="email"/>
+
+<button>
+Click ME
+</button>
+
+<br>
+</br>
+
+<strong>
+The words inside will be bold
+</strong>
